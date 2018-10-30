@@ -1,5 +1,5 @@
 # REACT-WEBPACK-EXPRESS-TYPESCRIPT
-Sample App to show use of ReactJS + Express + Webpack + TypeScript (boilerplate)
+Sample application to show use of ReactJS + Express + Webpack + TypeScript (boilerplate)
   
 ### ARCHITECTURE/FOLDER STRUCTURE  
 This is just a demo app to show working of all the mentioned technologies and should not be used as architecture for any future app.   
@@ -13,7 +13,7 @@ Database - PostgreSQL
 ### TYPESCRIPT COMPILATION  
 Use command   
 ```tcs```   
-on your terminal for server-end files Conversion from TS to JS ES5.  
+on your terminal for server-end files conversion from TS to JS ES5.  
   
 ### LICENSE
 GPL
