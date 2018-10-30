@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "sourceMap": false,
+        "strictNullChecks": true,
+        "module": "CommonJS",
+        "jsx": "react",
+        "target": "es5",
+        "allowJs": true,
+        "typeRoots": [
+            "node_modules/@types"
+        ],
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "lib": ["es6", "dom"]
+    },
+    "exclude": [
+        "node_modules"
+    ],
+    "include": [
+        "./*.ts"
+    ]
+}
